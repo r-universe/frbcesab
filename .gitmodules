@@ -58,3 +58,8 @@
 	url = https://github.com/ropensci/rnaturalearthhires
 	shallow = true
 	registered = false
+[submodule "testthat"]
+	path = testthat
+	url = https://github.com/r-lib/testthat
+	shallow = true
+	registered = false

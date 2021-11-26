@@ -4,5 +4,11 @@
     "url": "https://github.com/ropensci/rnaturalearthhires",
     "via": ["robinmap"],
     "from": "robinmap"
+  },
+  {
+    "package": "testthat",
+    "url": "https://github.com/r-lib/testthat",
+    "via": ["funrar"],
+    "from": "funrar"
   }
 ]
