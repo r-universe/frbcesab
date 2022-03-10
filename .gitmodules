@@ -53,3 +53,8 @@
 	url = https://github.com/rekyt/funrar
 	shallow = true
 	registered = true
+[submodule "rnaturalearthhires"]
+	path = rnaturalearthhires
+	url = https://github.com/ropensci/rnaturalearthhires
+	shallow = true
+	registered = false
