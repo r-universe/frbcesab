@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "popbayes"]
+	path = popbayes
+	url = https://github.com/frbcesab/popbayes
+	shallow = true
+	registered = true
+[submodule "rcompendium"]
+	path = rcompendium
+	url = https://github.com/frbcesab/rcompendium
+	shallow = true
+	registered = true

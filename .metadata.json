@@ -1,0 +1,10 @@
+[
+  {
+    "package": "popbayes",
+    "oncran": true
+  },
+  {
+    "package": "rcompendium",
+    "oncran": true
+  }
+]
