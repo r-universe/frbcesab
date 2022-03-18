@@ -1,15 +1,55 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/frbcesab/universe
 	shallow = true
 	branch = HEAD
+[submodule "worldpa"]
+	path = worldpa
+	url = https://github.com/FRBCesab/worldpa
+	shallow = true
+	registered = true
+[submodule "rsendinblue"]
+	path = rsendinblue
+	url = https://github.com/FRBCesab/rsendinblue
+	shallow = true
+	registered = true
+[submodule "rwoslite"]
+	path = rwoslite
+	url = https://github.com/FRBCesab/rwoslite
+	shallow = true
+	registered = true
+[submodule "messages"]
+	path = messages
+	url = https://github.com/FRBCesab/messages
+	shallow = true
+	registered = true
 [submodule "popbayes"]
 	path = popbayes
-	url = https://github.com/frbcesab/popbayes
+	url = https://github.com/FRBCesab/popbayes
+	shallow = true
+	registered = true
+[submodule "robinmap"]
+	path = robinmap
+	url = https://github.com/FRBCesab/robinmap
+	shallow = true
+	registered = true
+[submodule "funbiogeo"]
+	path = funbiogeo
+	url = https://github.com/FRBCesab/funbiogeo
 	shallow = true
 	registered = true
 [submodule "rcompendium"]
 	path = rcompendium
-	url = https://github.com/frbcesab/rcompendium
+	url = https://github.com/FRBCesab/rcompendium
+	shallow = true
+	registered = true
+[submodule "mFD"]
+	path = mFD
+	url = https://github.com/CmlMagneville/mFD
+	shallow = true
+	registered = true
+[submodule "funrar"]
+	path = funrar
+	url = https://github.com/rekyt/funrar
 	shallow = true
 	registered = true
