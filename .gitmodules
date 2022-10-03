@@ -3,6 +3,16 @@
 	url = https://github.com/frbcesab/universe
 	shallow = true
 	branch = HEAD
+[submodule "chessboard"]
+	path = chessboard
+	url = https://github.com/FRBCesab/chessboard
+	shallow = true
+	registered = true
+[submodule "rbibtools"]
+	path = rbibtools
+	url = https://github.com/FRBCesab/rbibtools
+	shallow = true
+	registered = true
 [submodule "worldpa"]
 	path = worldpa
 	url = https://github.com/FRBCesab/worldpa

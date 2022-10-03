@@ -1,5 +1,11 @@
 [
   {
+    "package": "chessboard"
+  },
+  {
+    "package": "rbibtools"
+  },
+  {
     "package": "worldpa"
   },
   {
