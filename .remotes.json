@@ -1,5 +1,11 @@
 [
   {
+    "package": "messages",
+    "url": "https://github.com/frbcesab/messages",
+    "via": ["forcis"],
+    "from": "forcis"
+  },
+  {
     "package": "rnaturalearthhires",
     "url": "https://github.com/ropensci/rnaturalearthhires",
     "via": ["chessboard"],
