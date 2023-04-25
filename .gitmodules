@@ -3,9 +3,29 @@
 	url = https://github.com/frbcesab/universe
 	shallow = true
 	branch = HEAD
+[submodule "geoparser"]
+	path = geoparser
+	url = https://github.com/FRBCesab/geoparser
+	shallow = true
+	registered = true
+[submodule "zoteror"]
+	path = zoteror
+	url = https://github.com/FRBCesab/zoteror
+	shallow = true
+	registered = true
 [submodule "chessboard"]
 	path = chessboard
 	url = https://github.com/FRBCesab/chessboard
+	shallow = true
+	registered = true
+[submodule "rutils"]
+	path = rutils
+	url = https://github.com/FRBCesab/rutils
+	shallow = true
+	registered = true
+[submodule "forcis"]
+	path = forcis
+	url = https://github.com/FRBCesab/forcis
 	shallow = true
 	registered = true
 [submodule "rbibtools"]
