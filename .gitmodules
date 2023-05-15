@@ -3,6 +3,11 @@
 	url = https://github.com/frbcesab/universe
 	shallow = true
 	branch = HEAD
+[submodule "snakedist"]
+	path = snakedist
+	url = https://github.com/FRBCesab/snakedist
+	shallow = true
+	registered = true
 [submodule "geoparser"]
 	path = geoparser
 	url = https://github.com/FRBCesab/geoparser
