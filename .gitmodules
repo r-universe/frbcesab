@@ -2,61 +2,61 @@
 	path = .registry
 	url = https://github.com/frbcesab/universe
 	branch = HEAD
-[submodule "zenodor"]
-	path = zenodor
-	url = https://github.com/FRBCesab/zenodor
-[submodule "snakedist"]
-	path = snakedist
-	url = https://github.com/FRBCesab/snakedist
-[submodule "geoparser"]
-	path = geoparser
-	url = https://github.com/FRBCesab/geoparser
-[submodule "zoteror"]
-	path = zoteror
-	url = https://github.com/FRBCesab/zoteror
 [submodule "chessboard"]
 	path = chessboard
 	url = https://github.com/FRBCesab/chessboard
-[submodule "rutils"]
-	path = rutils
-	url = https://github.com/FRBCesab/rutils
 [submodule "forcis"]
 	path = forcis
 	url = https://github.com/FRBCesab/forcis
-[submodule "rbibtools"]
-	path = rbibtools
-	url = https://github.com/FRBCesab/rbibtools
-[submodule "worldpa"]
-	path = worldpa
-	url = https://github.com/FRBCesab/worldpa
-[submodule "rsendinblue"]
-	path = rsendinblue
-	url = https://github.com/FRBCesab/rsendinblue
-[submodule "rwoslite"]
-	path = rwoslite
-	url = https://github.com/FRBCesab/rwoslite
+[submodule "funbiogeo"]
+	path = funbiogeo
+	url = https://github.com/FRBCesab/funbiogeo
+[submodule "funrar"]
+	path = funrar
+	url = https://github.com/rekyt/funrar
+[submodule "geoparser"]
+	path = geoparser
+	url = https://github.com/FRBCesab/geoparser
+[submodule "mFD"]
+	path = mFD
+	url = https://github.com/CmlMagneville/mFD
 [submodule "messages"]
 	path = messages
 	url = https://github.com/FRBCesab/messages
 [submodule "popbayes"]
 	path = popbayes
 	url = https://github.com/FRBCesab/popbayes
-[submodule "robinmap"]
-	path = robinmap
-	url = https://github.com/FRBCesab/robinmap
-[submodule "funbiogeo"]
-	path = funbiogeo
-	url = https://github.com/FRBCesab/funbiogeo
+[submodule "rbibtools"]
+	path = rbibtools
+	url = https://github.com/FRBCesab/rbibtools
 [submodule "rcompendium"]
 	path = rcompendium
 	url = https://github.com/FRBCesab/rcompendium
-[submodule "mFD"]
-	path = mFD
-	url = https://github.com/CmlMagneville/mFD
-[submodule "funrar"]
-	path = funrar
-	url = https://github.com/rekyt/funrar
 [submodule "rnaturalearthhires"]
 	path = rnaturalearthhires
 	url = https://github.com/ropensci/rnaturalearthhires
 	registered = false
+[submodule "robinmap"]
+	path = robinmap
+	url = https://github.com/FRBCesab/robinmap
+[submodule "rsendinblue"]
+	path = rsendinblue
+	url = https://github.com/FRBCesab/rsendinblue
+[submodule "rutils"]
+	path = rutils
+	url = https://github.com/FRBCesab/rutils
+[submodule "rwoslite"]
+	path = rwoslite
+	url = https://github.com/FRBCesab/rwoslite
+[submodule "snakedist"]
+	path = snakedist
+	url = https://github.com/FRBCesab/snakedist
+[submodule "worldpa"]
+	path = worldpa
+	url = https://github.com/FRBCesab/worldpa
+[submodule "zenodor"]
+	path = zenodor
+	url = https://github.com/FRBCesab/zenodor
+[submodule "zoteror"]
+	path = zoteror
+	url = https://github.com/FRBCesab/zoteror
