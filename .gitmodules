@@ -48,6 +48,9 @@
 [submodule "rwoslite"]
 	path = rwoslite
 	url = https://github.com/FRBCesab/rwoslite
+[submodule "rwosstarter"]
+	path = rwosstarter
+	url = https://github.com/FRBCesab/rwosstarter
 [submodule "snakedist"]
 	path = snakedist
 	url = https://github.com/FRBCesab/snakedist
