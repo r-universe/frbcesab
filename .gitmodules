@@ -32,6 +32,9 @@
 [submodule "rcompendium"]
 	path = rcompendium
 	url = https://github.com/FRBCesab/rcompendium
+[submodule "rdeps"]
+	path = rdeps
+	url = https://github.com/FRBCesab/rdeps
 [submodule "rnaturalearthhires"]
 	path = rnaturalearthhires
 	url = https://github.com/ropensci/rnaturalearthhires
