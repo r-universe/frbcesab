@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/frbcesab/universe
+	url = https://github.com/frbcesab/frbcesab.r-universe.dev
 	branch = HEAD
 [submodule "chessboard"]
 	path = chessboard
