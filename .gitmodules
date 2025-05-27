@@ -7,7 +7,7 @@
 	url = https://github.com/FRBCesab/chessboard
 [submodule "forcis"]
 	path = forcis
-	url = https://github.com/FRBCesab/forcis
+	url = https://github.com/ropensci/forcis
 [submodule "funbiogeo"]
 	path = funbiogeo
 	url = https://github.com/FRBCesab/funbiogeo
@@ -39,9 +39,6 @@
 	path = rnaturalearthhires
 	url = https://github.com/ropensci/rnaturalearthhires
 	registered = false
-[submodule "robinmap"]
-	path = robinmap
-	url = https://github.com/FRBCesab/robinmap
 [submodule "rsendinblue"]
 	path = rsendinblue
 	url = https://github.com/FRBCesab/rsendinblue
