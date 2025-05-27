@@ -35,10 +35,6 @@
 [submodule "rdeps"]
 	path = rdeps
 	url = https://github.com/FRBCesab/rdeps
-[submodule "rnaturalearthhires"]
-	path = rnaturalearthhires
-	url = https://github.com/ropensci/rnaturalearthhires
-	registered = false
 [submodule "rsendinblue"]
 	path = rsendinblue
 	url = https://github.com/FRBCesab/rsendinblue
