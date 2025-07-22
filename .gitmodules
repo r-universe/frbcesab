@@ -5,9 +5,9 @@
 [submodule "chessboard"]
 	path = chessboard
 	url = https://github.com/FRBCesab/chessboard
-[submodule "faircitations"]
-	path = faircitations
-	url = https://github.com/FRBCesab/faircitations
+[submodule "fairpub"]
+	path = fairpub
+	url = https://github.com/FRBCesab/fairpub
 [submodule "forcis"]
 	path = forcis
 	url = https://github.com/ropensci/forcis
